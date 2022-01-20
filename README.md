@@ -22,5 +22,3 @@ Also have some ex in C# / SQL.
                              \ \  \
                               \ \  \
                                \_\_|
-                               
-                               
